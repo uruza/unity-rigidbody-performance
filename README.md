@@ -1,1 +1,1 @@
-# unity-rigidbody-performance
+# Unity Rigidbody Performance
