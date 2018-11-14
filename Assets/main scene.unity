@@ -141,7 +141,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   actorTemp: {fileID: 1949785974}
-  actorRigidBody: 1
+  actorRigidBody: 0
   actorCount: 20
   actorGenArea: {x: 10, y: 10}
   bulletTemp: {fileID: 402526832}
